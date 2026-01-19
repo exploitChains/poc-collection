@@ -1,4 +1,4 @@
-# Vulnerability POC Collection
+# Critical RCE Vulnerability POC Collection
 
 A curated collection of proof-of-concept exploits for disclosed vulnerabilities.
 

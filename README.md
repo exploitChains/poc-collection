@@ -1,6 +1,6 @@
 # Critical RCE Vulnerability POC Collection
 
-A curated collection of proof-of-concept exploits for disclosed vulnerabilities.
+A curated collection of proof-of-concept exploits for disclosed RCE vulnerabilities.
 
 ## ⚠️ Disclaimer
 
